@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sports - Ur Web Tricks</title>
+	<atom:link href="/category/sports/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>See Magic Happening</description>
+	<lastBuildDate>Wed, 23 Mar 2022 17:26:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/2022/03/22/helloworld/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=helloworld</link>
+					<comments>/2022/03/22/helloworld/#comments</comments>
+		
+		<dc:creator><![CDATA[Nikhil Gowda]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2022 05:34:59 +0000</pubDate>
+				<category><![CDATA[Football]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Frederick Douglass was born in Talbot County, Maryland. The date of his birth is estimated to be around the year 1818. His mother was a slave named Harriet Bailey. His father was generally acknowledged to be a white man, quite possibly his master, Captain Anthony. As a young boy, Douglass lived the typical life of a slave on a Southern plantation. He suffered through constant hunger and cold. He was also exposed to the extreme barbarity of slavery. In 1826, at the age of seven…</p>
+<p>The post <a href="/2022/03/22/helloworld/">Hello world!</a> first appeared on <a href="">Ur Web Tricks</a>.</p>]]></description>
+		
+					<wfw:commentRss>/2022/03/22/helloworld/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
